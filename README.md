@@ -32,5 +32,6 @@
   <a href="https://velog.io/@ygy0102" target="_blank">
     <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@ygy0102"/>
   </a>
-  
+  <br>
+  <img src="https://img.shields.io/badge/42Seoul-000000?style=flat-square&logo=42&logoColor=white">
 </div>

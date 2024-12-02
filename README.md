@@ -2,9 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:feac5e,50:c779d0,100:4bc0c8&height=250&section=header&text=Jaeyoung's&nbsp;Github&fontSize=50&fontColor=ffffff" style="max-width: 100%;">
 </div>
 
-<h3 align="center">
-  🖥 Stack 🖥
-</h3>
+<h2 align="center">
+  Stack
+</h2>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white">
@@ -23,14 +23,16 @@
   <br>
 </div>
 
-<h3 align="center">
-  🎸 Jae-Young98 🎸
-</h3>
-
 <div align="center">
+  <h2>Activity</h2>
   <a href="https://velog.io/@ygy0102" target="_blank">
     <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@ygy0102"/>
   </a>
   <br>
   <img src="https://img.shields.io/badge/42Seoul-000000?style=flat-square&logo=42&logoColor=white">
+</div>
+
+<div align="center">
+  <h2>Open Source Contribution</h2>
+  <li><a href="https://github.com/spring-projects/spring-boot" target="_blank">spring-boot</a> | Remove redundant null check for sorter | <a href="https://github.com/spring-projects/spring-boot/pull/43343" target="_blank">PR Link</a></li>
 </div>

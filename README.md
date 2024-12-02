@@ -35,4 +35,5 @@
 <div align="center">
   <h2>Open Source Contribution</h2>
   <li><a href="https://github.com/spring-projects/spring-boot" target="_blank">spring-boot</a> | Remove redundant null check for sorter | <a href="https://github.com/spring-projects/spring-boot/pull/43343" target="_blank">PR Link</a></li>
+  <li><a href="https://github.com/neolord0/hwplib" target="_blank">hwplib</a> | fix: typo | <a href="https://github.com/neolord0/hwplib/pull/269" target="_blank">PR Link</a></li>
 </div>
